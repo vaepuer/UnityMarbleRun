@@ -7,29 +7,41 @@ Direct3D:
     VRAM:     2998 MB
     Driver:   23.21.13.9103
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
-Loading C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
-- Completed reload, in  0.266 seconds
-Platform assembly: C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\SKOL Products\Documents\UNITY\Zombie Rush\MarbleRUn\MarbleRun_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
+Loading C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\SKOL Products\Documents\GitHub\UnityMarbleRun\MarbleRun_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.310036 ms
+UnloadTime: 1.178267 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 1f20 -> priority: 1 
-  Thread -> id: 19ac -> priority: 1 
+  Thread -> id: be4 -> priority: 1 
+  Thread -> id: 207c -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.433342 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 720.
+Total: 0.411516 ms (FindLiveObjects: 0.042376 ms CreateObjectMapping: 0.026154 ms MarkObjects: 0.256907 ms  DeleteObjects: 0.085084 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.841241 ms
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 436.
+Total: 1.263351 ms (FindLiveObjects: 0.049660 ms CreateObjectMapping: 0.022843 ms MarkObjects: 0.941554 ms  DeleteObjects: 0.248300 ms)
+
 Quit
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
